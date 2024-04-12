@@ -53,4 +53,4 @@ jobs:
           app-name: 'DoListApp'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C89CCE2664E548D483025546A4E3B4D0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_46F30799A0E94B2585DD37552713EF25 }}
